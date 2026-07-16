@@ -461,3 +461,560 @@ Always explain better alternatives.
 The objective is not to create a beautiful portfolio.
 
 The objective is to create an unforgettable experience.
+# GEMINI.md
+
+# Portfolio Manifesto
+
+This portfolio is more than a website.
+
+It is the digital representation of how I think, solve problems, and build products.
+
+It should not feel like a developer portfolio.
+
+It should feel like stepping inside my mind.
+
+The objective is simple.
+
+When someone leaves this website, they should remember me.
+
+Not because of flashy animations.
+
+Not because of expensive effects.
+
+But because every interaction felt intentional.
+
+Every section had meaning.
+
+Every animation told a story.
+
+Every detail felt handcrafted.
+
+---
+
+# Philosophy
+
+I don't build websites.
+
+I build experiences.
+
+I don't design pages.
+
+I design systems.
+
+I don't create animations.
+
+I create moments.
+
+Technology is only the medium.
+
+Thinking is the product.
+
+Everything should reflect this philosophy.
+
+---
+
+# Primary Goal
+
+Create an award-level portfolio that demonstrates engineering, storytelling, interaction design, and craftsmanship.
+
+The portfolio should be worthy of:
+
+• GSAP Showcase
+• Awwwards inspiration
+• Professional case studies
+• Senior engineering review
+• Product design appreciation
+
+Awards are not the goal.
+
+Craftsmanship is.
+
+Awards are simply a by-product of exceptional work.
+
+---
+
+# What this portfolio should communicate
+
+Visitors should leave believing:
+
+"This person doesn't just write code.
+
+He designs systems."
+
+That sentence is more important than any animation.
+
+---
+
+# Design Principles
+
+Every design decision must answer:
+
+Why does this exist?
+
+If a section has no purpose...
+
+Remove it.
+
+If an animation communicates nothing...
+
+Remove it.
+
+If an interaction doesn't improve the experience...
+
+Remove it.
+
+Minimalism is not the absence of elements.
+
+It is the removal of unnecessary ones.
+
+---
+
+# Storytelling
+
+This portfolio is read from top to bottom like a story.
+
+It is not a collection of pages.
+
+It is not a resume.
+
+It is not a landing page.
+
+Every scroll should feel like turning the next page of a book.
+
+Visitors should constantly wonder:
+
+"What happens next?"
+
+Curiosity should pull them through the experience.
+
+---
+
+# Chapter Structure
+
+Current narrative:
+
+• Hero
+• Who I Am
+• About Me
+• Featured Work
+• Services
+• Full Screen Ending
+
+This structure may evolve.
+
+The story is more important than the sections.
+
+---
+
+# Hero
+
+Avoid generic introductions.
+
+Never write:
+
+Hello.
+
+Hi.
+
+Welcome.
+
+I'm Aryan.
+
+Instead...
+
+Create curiosity.
+
+The visitor should immediately understand that this is different.
+
+---
+
+# About Me
+
+Do not describe me with labels.
+
+Instead...
+
+Describe how I think.
+
+How I approach engineering.
+
+How I solve problems.
+
+How I build products.
+
+My mindset is more important than my résumé.
+
+---
+
+# Projects
+
+Projects are stories.
+
+Never display simple project cards.
+
+Every featured project should communicate:
+
+Problem
+
+Thinking
+
+Iteration
+
+Decision Making
+
+Architecture
+
+Execution
+
+Outcome
+
+Visitors should understand the process behind the result.
+
+---
+
+# Services
+
+Never create a skills section.
+
+Technology changes.
+
+Value doesn't.
+
+Instead communicate what I can build.
+
+Examples:
+
+• AI Products
+
+• Full Stack Applications
+
+• Mobile Applications
+
+• AI Agents
+
+• Developer Tools
+
+• RAG Systems
+
+• Product Engineering
+
+• API Development
+
+Always sell outcomes.
+
+Never sell frameworks.
+
+---
+
+# Components
+
+Component libraries are tools.
+
+Not identity.
+
+Allowed inspiration:
+
+• shadcn/ui
+• React Bits
+• Skiper UI
+• Motion Primitives
+• Aceternity UI
+• Magic UI
+• TweakCN
+
+Never copy showcase examples.
+
+Every imported component must be redesigned.
+
+The final product should feel original.
+
+---
+
+# Motion
+
+Read:
+
+animations.md
+
+Animation is storytelling.
+
+Not decoration.
+
+Every motion should:
+
+Guide attention
+
+Reveal information
+
+Create anticipation
+
+Support interaction
+
+Never animate simply because something can move.
+
+---
+
+# Typography
+
+Read:
+
+sans_serif_fonts.md
+
+Typography is the strongest visual element.
+
+Large display typography should create emotion.
+
+Body typography should disappear into readability.
+
+Never allow typography to become decoration.
+
+---
+
+# Color
+
+Read:
+
+color_theory.md
+
+Every color has purpose.
+
+Maintain accessibility.
+
+Maintain hierarchy.
+
+Maintain consistency.
+
+Never chase trends.
+
+---
+
+# Product Design
+
+Read:
+
+product_design.md
+
+Think like a product designer.
+
+Not a web designer.
+
+Every interaction should solve a user problem.
+
+---
+
+# Storytelling
+
+Read:
+
+storytelling.md
+
+The portfolio should always feel alive.
+
+Not because everything moves.
+
+Because every interaction creates progression.
+
+---
+
+# Design System
+
+Read:
+
+design_system.md
+
+Never invent conflicting design rules.
+
+Consistency is more valuable than novelty.
+
+---
+
+# Assets
+
+Never invent assets.
+
+Never use placeholder illustrations.
+
+Never use generic stock graphics.
+
+Use professional icons.
+
+If custom assets are required...
+
+Ask me.
+
+---
+
+# Missing Information
+
+Never assume.
+
+Never guess.
+
+If information is missing...
+
+Stop.
+
+Ask.
+
+Do not continue until clarification is received.
+
+---
+
+# Responsiveness
+
+Responsive by default.
+
+Every experience should feel equally premium across:
+
+Desktop
+
+Tablet
+
+Mobile
+
+No exceptions.
+
+---
+
+# Accessibility
+
+Accessibility is mandatory.
+
+Support:
+
+Keyboard navigation
+
+Reduced motion
+
+Semantic HTML
+
+Proper contrast
+
+Readable typography
+
+---
+
+# Performance
+
+Motion should never compromise performance.
+
+Optimize animations.
+
+Maintain excellent Lighthouse scores.
+
+Build for real users.
+
+Not benchmarks.
+
+---
+
+# Knowledge Base
+
+Always consult these documents before implementing designs.
+
+• animations.md
+• color_theory.md
+• design_system.md
+• product_design.md
+• sans_serif_fonts.md
+• storytelling.md
+
+Future documents will expand this knowledge base.
+
+Treat every new document as part of the project's design language.
+
+---
+
+# Development Workflow
+
+Build incrementally.
+
+After every completed feature:
+
+• Update progress.md
+
+• Commit changes
+
+• Push to a new feature branch
+
+Never leave completed work untracked.
+
+---
+
+# Progress
+
+Maintain:
+
+progress.md
+
+Track:
+
+Completed
+
+In Progress
+
+Upcoming
+
+Ideas
+
+Known Issues
+
+Technical Debt
+
+Future Improvements
+
+Update after every milestone.
+
+---
+
+# Push Back
+
+Do not become a yes-man.
+
+If a request weakens:
+
+Design
+
+Performance
+
+Accessibility
+
+Storytelling
+
+Consistency
+
+Award potential
+
+Explain why.
+
+Then propose something better.
+
+Act as:
+
+Senior Frontend Engineer
+
+Motion Designer
+
+Product Designer
+
+Creative Director
+
+---
+
+# Final Thought
+
+The objective is not to create a portfolio.
+
+The objective is to create an experience people remember.
+
+People should forget the frameworks.
+
+Forget the libraries.
+
+Forget the animations.
+
+But remember how the website made them feel.
+
+If they close the tab and immediately want to open it again...
+
+The mission has been accomplished.
